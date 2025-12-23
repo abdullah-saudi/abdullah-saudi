@@ -2,7 +2,7 @@
 
 ### I'm Working With
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,vscode,postman,git,github,figma" />
   </a>
 </p>
@@ -19,6 +19,6 @@ best practices, and collaborative problem-solving to deliver maintainable front-
 * 😴 I also study Computer Science at Alexandria University
 
 ### Find Me At LinkedIn, Mostaql:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,vscode,postman,git,github,figma" />
+  <a href="https://www.linkedin.com/in/abdullah-mohammed-50602621a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
