@@ -19,4 +19,6 @@ best practices, and collaborative problem-solving to deliver maintainable front-
 * 😴 I also study Computer Science at Alexandria University
 
 ### Find Me At LinkedIn, Mostaql:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,vscode,postman,git,github,figma" />
+  </a>
