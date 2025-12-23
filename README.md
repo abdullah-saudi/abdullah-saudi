@@ -3,7 +3,7 @@
 ### I'm Working With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,shadcn,tailwind,git,github," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,vscode,postman,git,github," />
   </a>
 </p>
 ### About me
