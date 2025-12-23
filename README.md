@@ -1,9 +1,9 @@
 # 👋 &nbsp;Hi there, This is Abdullah Saudi
 
-### I am Working With
+### I'm Working With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,shadcn,tailwind,git,github," />
   </a>
 </p>
 ### About me
