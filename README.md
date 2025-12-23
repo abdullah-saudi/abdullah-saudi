@@ -18,7 +18,7 @@ best practices, and collaborative problem-solving to deliver maintainable front-
 
 * 😴 I also study Computer Science at Alexandria University
 
-### Find Me On LinkedIn:
+### Find Me On LinkedIn
   <a href="https://www.linkedin.com/in/abdullah-mohammed-50602621a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
