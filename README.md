@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
-</p>
+# 👋 &nbsp;Hi there, This is Abdullah Saudi
 
-<div align='center'>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    </a>
-  </p>
-</div>
+### I am Working With
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ### About me
 
 * 🎨 Frontend engineer who loves React, React Native and Electron.
